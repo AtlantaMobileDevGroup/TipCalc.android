@@ -1,0 +1,6 @@
+_build
+*.pyc
+target
+.idea
+.idea_modules
+.DS_Store
